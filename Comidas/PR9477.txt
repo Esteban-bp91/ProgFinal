@@ -1,1 +1,1 @@
-9477;Pat. fritas;2,45;Buen estado;false;300;0
+9477;Pat. fritas;2,45;Buen estado;true;300;0

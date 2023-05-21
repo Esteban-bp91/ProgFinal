@@ -74,6 +74,8 @@ public class Comida extends Producto{
 	public LocalDate calcularCaducidad() {
 		if(perecedero == true) {
 			fecha_caducidad = fecha_envase.plusDays(10);
+		} else {
+			fecha_caducidad = LocalDate.now().plusDays(3); //Establecemos esta fecha de caducidad para que se muestre el producto en oferta con el nuevo precio
 		}
 	return fecha_caducidad;
 	}

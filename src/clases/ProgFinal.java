@@ -78,7 +78,10 @@ public class ProgFinal {
 		}
 		
 		// Comida con fecha de caducidad proxima
-		//comidas.add(new Comida(0101,"Oferta",1.11,LocalDate.now().plusDays(2),"Buen estado",0,true,100,1,LocalDate.now()));
+		comidas.add(new Comida(0101,"ComidaEnOferta",1.11,LocalDate.now().plusDays(2),"Buen estado",0,false,100,1,LocalDate.now()));
+
+		// Comida caducada
+		comidas.add(new Comida(0102,"ComidaCaducada",1.11,LocalDate.now().plusDays(2),"Buen estado",0,true,100,1,LocalDate.now().minusDays(12)));
 
 		// Bucle Do que se realizará hasta que el usuario decida terminar el programa con la opción 4 del menú inicial
 		do {
