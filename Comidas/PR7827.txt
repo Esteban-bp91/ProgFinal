@@ -1,0 +1,1 @@
+7827;Frutos secos;1,45;Buen estado;false;200;0

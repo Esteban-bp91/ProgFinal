@@ -1,0 +1,1 @@
+1000;Coca-cola;2,55;Buen estado;true;false;33cc

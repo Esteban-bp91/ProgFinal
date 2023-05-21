@@ -1,0 +1,1 @@
+6873;Chuletas;15,95;Buen estado;true;500;1

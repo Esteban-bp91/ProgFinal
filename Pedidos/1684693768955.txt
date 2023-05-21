@@ -1,0 +1,6 @@
+
+CANT.             PRODUCTO               PRECIO UD.       TOTAL
+=====             =========               =========        =====
+1                   Fanta naranja                    2.55€           2.55€
+1                   Pizza                    7.95€           7.95€
+Importe Total = 10.5€
